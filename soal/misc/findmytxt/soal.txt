@@ -1,0 +1,6 @@
+Perkenalkan nama saya Bujang, CTF Lord event kali ini.Sebagai perkenalan, saya memberikan sebuah flag pada suatu TXT pada DNS domain ini.
+
+Selamat mencari ^_^
+
+ctf.screen6.id
+188.166.180.197
